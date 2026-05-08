@@ -6,10 +6,12 @@ Bem-vindos! Este é o repositório central da diciplina **Laboratório de Progra
 Este artquivo foi escrito em **Markdown **, uma linguagem de marcação leve que você usará constantemente em sua carreira para documenta projetos, documenta projetos, criar wikis no GitHub e estruturar mensagens técnicas.
 > **Dica de markdow:** você pode criar marcações como essa usando o caractere `>`.
 ---
-## Benefícios desta diciplina
+## Benefícios desta diciplina.
 A materia é ocoração de um desenvolvedor. Aqui, os benefícios vão além da escrita do código:
+
 1.**Resolução de problemas complexos:** Você aprenderá a decompor grandes desafioios em pequenas tarefas tratáveis.
-2.**"Mentalidade mão na massa:** A diciplina foca na experimentação. O erro não é um fracasso, más um passo nescessário para o aprendizado.
+
+2.**"Mentalidade mão na massa":** A diciplina foca na experimentação. O erro não é um fracasso, más um passo nescessário para o aprendizado.
 
 ---
 ## Tabela conteúdos
